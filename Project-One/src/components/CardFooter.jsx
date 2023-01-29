@@ -10,6 +10,7 @@ export default function CardFooter(){
             <img className="footer--element" src={facebookLogo} />
             <img className="footer--element" src={instagramLogo} />
             <img className="footer--element" src={githubLogo} />
+            
         </div>
     )
 }
